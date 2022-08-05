@@ -1,0 +1,59 @@
+.landing{
+    margin-top: 10%;
+    }
+    .icon{
+    margin-bottom: 40px;
+    color: #26bba5;
+    }
+    .text-center h1{
+    margin-bottom: 20px;
+    }
+    .text-center p{
+    margin-bottom: 50px;
+    }
+    
+    .ios{
+    text-decoration: none;
+    background-color: #26bba5;
+    color: white;
+    padding: 13px 25px;
+    }
+    .mac{
+    text-decoration: none;
+    background-color: #6273ff;
+    color: white;
+    padding: 13px 25px;
+    margin-left: 20px;
+    }
+    /* .photo img{
+    margin-left: 33%;
+    } */
+    .feature .icon-holder{
+    height: 200px;
+    }
+    .feature .icon-holder svg{
+    left: 50%;
+    transform: translateX(-50%);
+    }
+    .feature .icon-holder .icon{
+    color: var(--green-color);
+    }
+    .feature .feat h4{
+    left: 50%;
+    color: var(--yellow-color);
+    }
+    .techs{
+    margin-left: 17%;
+    }
+    .part-1{
+    margin-left: 14%;
+    }
+    .info span{
+    color: #26bba5;
+    }
+    .footer{
+    background: #ccc;
+    }
+    .media{
+    font-size: 20px;
+    }
